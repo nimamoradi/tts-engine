@@ -15,7 +15,6 @@ from data_utils import TextMelLoader, TextMelCollate
 from loss_function import Tacotron2Loss
 from logger import Tacotron2Logger
 from hparams import create_hparams
-from autoload_checkpoint import autoload_checkpoint
 
 
 def reduce_tensor(tensor, n_gpus):
