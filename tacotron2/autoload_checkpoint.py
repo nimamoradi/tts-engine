@@ -11,7 +11,7 @@ class autoload_checkpoint:
                 file_names = [] 
                 for file in list:
                         name = file.replace('/content/tts-engine/gdrive/My Drive/outdir/checkpoint_',"")
-                        file_names.append(file)
+                        file_names.append(name)
                 results = [int(i) for i in file_names]
 
                 latest = max(results)
