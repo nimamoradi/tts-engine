@@ -15,5 +15,5 @@ class autoload_checkpoint:
                 results = [int(i) for i in file_names]
 
                 latest = max(results)
-                self.latest = base_path + save_pharse + str(latest)
+                self.latest = base_path +"/"+ save_pharse + str(latest)
                 print("biggest file is " + self.latest)
