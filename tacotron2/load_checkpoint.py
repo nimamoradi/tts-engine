@@ -2,7 +2,7 @@ import glob
 from pathlib import Path
 
 save_pharse = "checkpoint"
-base_path = ""
+base_path = "/content/tts-engine/gdrive/My Drive/outdir"
 
 class load_checkpoint:
         def __init__(self):
