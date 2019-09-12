@@ -1,7 +1,7 @@
 import glob
 from pathlib import Path
 
-save_pharse = "checkpoint"
+save_pharse = "checkpoint_"
 base_path = "/content/tts-engine/gdrive/My Drive/outdir"
 
 class autoload_checkpoint:
