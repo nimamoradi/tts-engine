@@ -4,7 +4,7 @@ from pathlib import Path
 save_pharse = "checkpoint"
 base_path = "/content/tts-engine/gdrive/My Drive/outdir"
 
-class load_checkpoint:
+class autoload_checkpoint:
         def __init__(self):
         list = (glob.glob(base_path+"/*"))
         print(list)
