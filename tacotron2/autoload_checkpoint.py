@@ -11,7 +11,7 @@ class autoload_checkpoint:
                 file_names = [] 
                 for file in list:
                         name = Path(file).stem
-                        name = name.replace(save_pharse,"")
+                        name = name.replace('/content/tts-engine/gdrive/My Drive/outdir/checkpoint_',"")
                         file_names.append(file)
                 results = [int(i) for i in file_names]
 
