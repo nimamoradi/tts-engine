@@ -7,3 +7,4 @@ scipy
 tensorboardX
 Unidecode
 pillow
+scikit-learn
