@@ -37,6 +37,7 @@ def text_to_sequence(text, cleaner_names):
     sequence += _arpabet_to_sequence(m.group(2))
     text = m.group(3)
 
+  print("sequence:"+sequence)
   return sequence
 
 
