@@ -28,7 +28,7 @@ def create_hparams(hparams_string=None, verbose=False):
         training_files='filelists/quran_text_train_filelist.txt',
         validation_files='filelists/quran_text_val_filelist.txt',
         test_files='filelists/quran_text_test_filelist.txt',
-        text_cleaners=['transliteration_cleaners'],
+        text_cleaners=['persian_cleaners'],
 
         ################################
         # Audio Parameters             #
