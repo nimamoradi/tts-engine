@@ -1,7 +1,6 @@
 import matplotlib
 %matplotlib inline
 import matplotlib.pylab as plt
-
 import IPython.display as ipd
 
 import sys
