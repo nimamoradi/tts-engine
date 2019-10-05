@@ -25,19 +25,19 @@ def plot_data(data, figsize=(16, 4)):
 hparams = create_hparams()
 hparams.sampling_rate = 22050
 
-checkpoint_path = "tacotron2_statedict.pt"
+checkpoint_path = "/content/tts-engine/gdrive/My Drive/tacotron2_statedict.pt"
 model = load_model(hparams)
 model.load_state_dict(torch.load(checkpoint_path)['state_dict'])
 _ = model.cuda().eval().half()
 
-waveglow_path = 'waveglow.pt'
+waveglow_path = '/content/tts-engine/gdrive/My Drive/waveglow.pt'
 waveglow = torch.load(waveglow_path)['model']
 waveglow.cuda().eval().half()
 for k in waveglow.convinv:
     k.float()
 denoiser = Denoiser(waveglow)
 
-text = "Waveglow is really awesome!"
+text = "Hello World ! Hello World !"
 sequence = np.array(text_to_sequence(text, ['english_cleaners']))[None, :]
 sequence = torch.autograd.Variable(
     torch.from_numpy(sequence)).cuda().long()
