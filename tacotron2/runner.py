@@ -27,7 +27,8 @@ hparams.sampling_rate = 22050
 
 checkpoint_path = "/content/tts-engine/gdrive/My Drive/tacotron2_statedict.pt"
 model = load_model(hparams)
-model.load_state_dict(torch.load(checkpoint_path)['state_dict'])
+model.load_state_dict(torch.load(checkpoint_path))
+# model.load_state_dict(torch.load(checkpoint_path)['state_dict'])
 _ = model.cuda().eval().half()
 
 waveglow_path = '/content/tts-engine/gdrive/My Drive/waveglow.pt'
