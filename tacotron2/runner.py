@@ -4,6 +4,7 @@ import matplotlib.pylab as plt
 import IPython.display as ipd
 
 import sys
+sys.path.append('waveglow/')
 import numpy as np
 import torch
 
