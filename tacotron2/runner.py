@@ -33,7 +33,7 @@ _ = model.cuda().eval().half()
 
 waveglow_path = '/content/tts-engine/gdrive/My Drive/waveglow.pt'
 waveglow = torch.load(waveglow_path,map_location='cpu')
-waveglow.cuda().eval().half()
+waveglow['model'].cuda().eval().half()
 for k in waveglow.convinv:
     k.float()
 denoiser = Denoiser(waveglow)
