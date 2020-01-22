@@ -36,8 +36,8 @@ waveglow = torch.load(waveglow_path,map_location='cpu')
 for key, value in waveglow.items() :
     print ("waveglows ", key)
 
-for key, value in waveglow['model'].items() :
-    print ("model ", key)
+print(waveglow.keys())
+print(waveglow['model'].keys())
 waveglow['model'].cuda().eval().half()
 for k in waveglow.convinv:
     k.float()
