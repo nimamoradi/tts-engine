@@ -34,7 +34,7 @@ _ = model.cuda().eval().half()
 waveglow_path = '/content/tts-engine/gdrive/My Drive/waveglow.pt'
 waveglow = torch.load(waveglow_path,map_location='cpu')
 print(type(waveglow),waveglow)
-print(waveglow['model'].keys())
+
 waveglow['model'].cuda().eval().half()
 for k in waveglow.convinv:
     k.float()
