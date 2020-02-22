@@ -34,10 +34,10 @@ def build_from_path(hparams, input_dirs, mel_dir, linear_dir, wav_dir, n_jobs=12
 		with open(os.path.join(input_dir, 'metadata.csv'), encoding='utf-8') as f:
 			for line in f:
 				parts = line.strip().split('|')
-				print("DIR ",parts)
 				basename = parts[0]
 				wav_path = os.path.join(input_dir, 'wavs', '{}.wav'.format(basename))
-				text = parts[1].replace('\u200c','')
+				text = parts[1].replace('\u200c',' ')
+				print("DIR ",text)
 				futures.append(executor.submit(partial(_process_utterance, mel_dir, linear_dir, wav_dir, basename, wav_path, text, hparams)))
 				index += 1
 
