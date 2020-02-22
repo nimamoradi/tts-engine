@@ -80,6 +80,9 @@ def run_preprocess(args, hparams):
 	input_folders = norm_data(args)
 	output_folder = os.path.join(args.base_dir, args.output)
 
+	print("input_folders " ,input_folders)
+	print("output_folder ",output_folder)
+
 	preprocess(args, input_folders, output_folder, hparams)
 
 
