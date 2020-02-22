@@ -12,7 +12,7 @@ from tqdm import tqdm
 
 
 def generate_fast(model, text):
-	model.synthesize(text, None, None, None, None)
+	model.synthesize([text], None, None, None, None)
 
 
 def run_live(args, checkpoint_path, hparams):
@@ -65,7 +65,7 @@ def run_eval(args, checkpoint_path, output_dir, hparams, sentences):
 			start = time.time()
 			basenames = ['batch_{}_sentence_{}'.format(i, j) for j in range(len(texts))]
 			mel_filenames, speaker_ids = synth.synthesize(texts, basenames, eval_dir, log_dir, None)
-			texts="test"	
+
 			for elems in zip(texts, mel_filenames, speaker_ids):
 				file.write('|'.join([str(x) for x in elems]) + '\n')
 	log('synthesized mel spectrograms at {}'.format(eval_dir))

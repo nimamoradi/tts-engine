@@ -20,6 +20,9 @@ from tqdm import tqdm
 log = infolog.log
 
 
+def time_string():
+	return datetime.now().strftime('%Y-%m-%d %H:%M')
+
 def add_embedding_stats(summary_writer, embedding_names, paths_to_meta, checkpoint_path):
 	#Create tensorboard projector
 	config = tf.contrib.tensorboard.plugins.projector.ProjectorConfig()
@@ -46,8 +49,8 @@ def add_train_stats(model, hparams):
 		if hparams.predict_linear:
 			tf.summary.scalar('linear_loss', model.linear_loss)
 			for i in range(hparams.tacotron_num_gpus):
-				tf.summary.histogram('mel_outputs %d' % i, model.tower_linear_outputs[i])
-				tf.summary.histogram('mel_targets %d' % i, model.tower_linear_targets[i])
+				tf.summary.histogram('linear_outputs %d' % i, model.tower_linear_outputs[i])
+				tf.summary.histogram('linear_targets %d' % i, model.tower_linear_targets[i])
 		
 		tf.summary.scalar('regularization_loss', model.regularization_loss)
 		tf.summary.scalar('stop_token_loss', model.stop_token_loss)
@@ -71,9 +74,6 @@ def add_eval_stats(summary_writer, step, linear_loss, before_loss, after_loss, s
 		values.append(tf.Summary.Value(tag='Tacotron_eval_model/eval_stats/eval_linear_loss', simple_value=linear_loss))
 	test_summary = tf.Summary(value=values)
 	summary_writer.add_summary(test_summary, step)
-
-def time_string():
-	return datetime.now().strftime('%Y-%m-%d %H:%M')
 
 def model_train_mode(args, feeder, hparams, global_step):
 	with tf.variable_scope('Tacotron_model', reuse=tf.AUTO_REUSE) as scope:
@@ -168,11 +168,19 @@ def train(log_dir, args, hparams):
 
 	char_embedding_meta = char_embedding_meta.replace(log_dir, '..')
 
+	#Potential Griffin-Lim GPU setup
+	if hparams.GL_on_GPU:
+		GLGPU_mel_inputs = tf.placeholder(tf.float32, (None, hparams.num_mels), name='GLGPU_mel_inputs')
+		GLGPU_lin_inputs = tf.placeholder(tf.float32, (None, hparams.num_freq), name='GLGPU_lin_inputs')
+
+		GLGPU_mel_outputs = audio.inv_mel_spectrogram_tensorflow(GLGPU_mel_inputs, hparams)
+		GLGPU_lin_outputs = audio.inv_linear_spectrogram_tensorflow(GLGPU_lin_inputs, hparams)
+
 	#Book keeping
 	step = 0
 	time_window = ValueWindow(100)
 	loss_window = ValueWindow(100)
-	saver = tf.train.Saver(max_to_keep=5)
+	saver = tf.train.Saver(max_to_keep=20)
 
 	log('Tacotron training set to a maximum of {} steps'.format(args.tacotron_train_steps))
 
@@ -221,7 +229,7 @@ def train(log_dir, args, hparams):
 					step, time_window.average, loss, loss_window.average)
 				log(message, end='\r', slack=(step % args.checkpoint_interval == 0))
 
-				if loss > 100 or np.isnan(loss):
+				if np.isnan(loss) or loss > 100.:
 					log('Loss exploded to {:.5f} at step {}'.format(loss, step))
 					raise Exception('Loss exploded')
 
@@ -256,7 +264,11 @@ def train(log_dir, args, hparams):
 							linear_losses.append(linear_loss)
 						linear_loss = sum(linear_losses) / len(linear_losses)
 
-						wav = audio.inv_linear_spectrogram(lin_p.T, hparams)
+						if hparams.GL_on_GPU:
+							wav = sess.run(GLGPU_lin_outputs, feed_dict={GLGPU_lin_inputs: lin_p})
+							wav = audio.inv_preemphasis(wav, hparams.preemphasis, hparams.preemphasize)
+						else:
+							wav = audio.inv_linear_spectrogram(lin_p.T, hparams)
 						audio.save_wav(wav, os.path.join(eval_wav_dir, 'step-{}-eval-wave-from-linear.wav'.format(step)), sr=hparams.sample_rate)
 
 					else:
@@ -278,7 +290,11 @@ def train(log_dir, args, hparams):
 
 					log('Saving eval log to {}..'.format(eval_dir))
 					#Save some log to monitor model improvement on same unseen sequence
-					wav = audio.inv_mel_spectrogram(mel_p.T, hparams)
+					if hparams.GL_on_GPU:
+						wav = sess.run(GLGPU_mel_outputs, feed_dict={GLGPU_mel_inputs: mel_p})
+						wav = audio.inv_preemphasis(wav, hparams.preemphasis, hparams.preemphasize)
+					else:
+						wav = audio.inv_mel_spectrogram(mel_p.T, hparams)
 					audio.save_wav(wav, os.path.join(eval_wav_dir, 'step-{}-eval-wave-from-mel.wav'.format(step)), sr=hparams.sample_rate)
 
 					plot.plot_alignment(align, os.path.join(eval_plot_dir, 'step-{}-eval-align.png'.format(step)),
@@ -319,7 +335,11 @@ def train(log_dir, args, hparams):
 						np.save(os.path.join(linear_dir, linear_filename), linear_prediction.T, allow_pickle=False)
 
 						#save griffin lim inverted wav for debug (linear -> wav)
-						wav = audio.inv_linear_spectrogram(linear_prediction.T, hparams)
+						if hparams.GL_on_GPU:
+							wav = sess.run(GLGPU_lin_outputs, feed_dict={GLGPU_lin_inputs: linear_prediction})
+							wav = audio.inv_preemphasis(wav, hparams.preemphasis, hparams.preemphasize)
+						else:
+							wav = audio.inv_linear_spectrogram(linear_prediction.T, hparams)
 						audio.save_wav(wav, os.path.join(wav_dir, 'step-{}-wave-from-linear.wav'.format(step)), sr=hparams.sample_rate)
 
 						#Save real and predicted linear-spectrogram plot to disk (control purposes)
@@ -341,7 +361,11 @@ def train(log_dir, args, hparams):
 					np.save(os.path.join(mel_dir, mel_filename), mel_prediction.T, allow_pickle=False)
 
 					#save griffin lim inverted wav for debug (mel -> wav)
-					wav = audio.inv_mel_spectrogram(mel_prediction.T, hparams)
+					if hparams.GL_on_GPU:
+						wav = sess.run(GLGPU_mel_outputs, feed_dict={GLGPU_mel_inputs: mel_prediction})
+						wav = audio.inv_preemphasis(wav, hparams.preemphasis, hparams.preemphasize)
+					else:
+						wav = audio.inv_mel_spectrogram(mel_prediction.T, hparams)
 					audio.save_wav(wav, os.path.join(wav_dir, 'step-{}-wave-from-mel.wav'.format(step)), sr=hparams.sample_rate)
 
 					#save alignment plot to disk (control purposes)
@@ -352,11 +376,10 @@ def train(log_dir, args, hparams):
 					plot.plot_spectrogram(mel_prediction, os.path.join(plot_dir, 'step-{}-mel-spectrogram.png'.format(step)),
 						title='{}, {}, step={}, loss={:.5f}'.format(args.model, time_string(), step, loss), target_spectrogram=target,
 						max_len=target_length)
-					# log('Input at step {}: {}'.format(step, sequence_to_text(input_seq)))
+					log('Input at step {}: {}'.format(step, sequence_to_text(input_seq)))
 
 				if step % args.embedding_interval == 0 or step == args.tacotron_train_steps or step == 1:
 					#Get current checkpoint state
-					checkpoint_state = tf.train.get_checkpoint_state(save_dir)
 					checkpoint_state = tf.train.get_checkpoint_state(save_dir)
 
 					#Update Projector
