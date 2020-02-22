@@ -289,6 +289,7 @@ hparams = tf.contrib.training.HParams(
 	wavenet_adam_beta1 = 0.9, #Adam beta1
 	wavenet_adam_beta2 = 0.999, #Adam beta2
 	wavenet_adam_epsilon = 1e-8, #Adam Epsilon
+	magnitude_power = 2., #The power of the spectrogram magnitude (1. for energy, 2. for power)
 
 	#Regularization parameters
 	wavenet_clip_gradients = False, #Whether the clip the gradients during wavenet training.
