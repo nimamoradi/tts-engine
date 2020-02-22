@@ -42,6 +42,7 @@ def norm_data(args):
 			args.dataset, supported_datasets))
 
 	if args.dataset.startswith('LJSpeech'):
+		print("LJSpeech ", [os.path.join(args.base_dir, args.dataset)])
 		return [os.path.join(args.base_dir, args.dataset)]
 
 
