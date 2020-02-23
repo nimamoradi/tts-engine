@@ -39,7 +39,7 @@ def create_hparams(hparams_string=None, verbose=False):
         hop_length=138,
         win_length=552,
         n_mel_channels=80,
-        mel_fmin=0.0,
+        mel_fmin=55.0,
         mel_fmax=8000.0,
 
         ################################
@@ -82,7 +82,7 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate=2e-3,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=16,
+        batch_size=4,
         mask_padding=True  # set model's padded outputs to padded values
     )
 
