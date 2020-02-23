@@ -136,7 +136,7 @@ hparams = tf.contrib.training.HParams(
 	#Attention mechanism
 	smoothing = False, #Whether to smooth the attention normalization function
 	attention_dim = 128, #dimension of attention space
-	attention_filters = 32, #number of attention convolution filters
+	attention_filters = 16, #number of attention convolution filters
 	attention_kernel = (31, ), #kernel size of attention convolution
 	cumulative_weights = True, #Whether to cumulate (sum) all previous attention weights or simply feed previous weights (Recommended: True)
 
