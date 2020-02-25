@@ -28,7 +28,7 @@ class TextMelLoader(torch.utils.data.Dataset):
         random.shuffle(self.audiopaths_and_text)
         x = np.array((self.audiopaths_and_text))
         x_len = len(x)
-        x = np.split(x, [item * 100 + 100 for item in range(int(x_len/100))])
+        x = np.split(x, [item * 100 + 100 for item in range(int(x_len))])
         y = []
         x = list(x)
         index = 0
