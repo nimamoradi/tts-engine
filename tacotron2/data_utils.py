@@ -30,7 +30,7 @@ class TextMelLoader(torch.utils.data.Dataset):
         # x_len = len(x)
         # x = np.split(x, [item * 4 + 4 for item in range(1500)])
         # y = []
-        y = list(x)
+        y = list(self.audiopaths_and_text)
         # item = list(item)
         y.sort(key=lambda a: len(a[1]))
         # index = 0
