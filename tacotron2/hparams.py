@@ -11,7 +11,7 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         epochs=10000,
         iters_per_checkpoint=200,
-        seed=1234,
+        seed=1235,
         dynamic_loss_scaling=True,
         fp16_run=False,
         distributed_run=False,
