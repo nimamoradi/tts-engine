@@ -41,7 +41,7 @@ class TextMelLoader(torch.utils.data.Dataset):
         #     index += 1
         #     y += item
         
-        self.audiopaths_and_text = y
+        self.audiopaths_and_text = reversed(y)
 
     def get_mel_text_pair(self, audiopath_and_text):
         # separate filename and text
