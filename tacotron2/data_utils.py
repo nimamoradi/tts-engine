@@ -38,7 +38,7 @@ class TextMelLoader(torch.utils.data.Dataset):
             x[index] = item
             index += 1
             y += item
-        print(y)
+        
         self.audiopaths_and_text = y
 
     def get_mel_text_pair(self, audiopath_and_text):
