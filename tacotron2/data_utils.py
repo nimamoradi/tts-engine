@@ -32,7 +32,7 @@ class TextMelLoader(torch.utils.data.Dataset):
         # y = []
         y = list(x)
         # item = list(item)
-        y.sort(key=lambda a: len(a[1]))
+        y.sort(key=lambda a: -len(a[1]))
         # index = 0
         # for item in x:
         #     item = list(item)
@@ -41,7 +41,7 @@ class TextMelLoader(torch.utils.data.Dataset):
         #     index += 1
         #     y += item
         
-        self.audiopaths_and_text = reversed(y)
+        self.audiopaths_and_text = y
 
     def get_mel_text_pair(self, audiopath_and_text):
         # separate filename and text
