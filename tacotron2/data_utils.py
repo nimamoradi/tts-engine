@@ -33,6 +33,7 @@ class TextMelLoader(torch.utils.data.Dataset):
         y = list(self.audiopaths_and_text)
         # item = list(item)
         y.sort(key=lambda a: len(a[1]))
+        print(y)
         # index = 0
         # for item in x:
         #     item = list(item)
