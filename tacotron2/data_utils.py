@@ -28,7 +28,7 @@ class TextMelLoader(torch.utils.data.Dataset):
         random.shuffle(self.audiopaths_and_text)
         x = np.array((self.audiopaths_and_text))
         x_len = len(x)
-        x = np.split(x, [item * 100 + 100 for item in range(25)])
+        x = np.split(x, [item * 50 + 50 for item in range(25)])
         y = []
         x = list(x)
         index = 0
@@ -39,6 +39,7 @@ class TextMelLoader(torch.utils.data.Dataset):
             index += 1
             y += item
         print(y)
+        self.audiopaths_and_text = y
 
     def get_mel_text_pair(self, audiopath_and_text):
         # separate filename and text
