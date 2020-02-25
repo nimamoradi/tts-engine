@@ -30,8 +30,11 @@ class TextMelLoader(torch.utils.data.Dataset):
         print("Original array:",x)
         x_len = len(x)
         print("After splitting:")
-        print(np.split(x, [item * item * 100 + 100 for item in range(int(x_len/100))]))
-        random.shuffle(self.audiopaths_and_text)
+        x = np.split(x, [item * 100 + 100 for item in range(int(x_len/100))])
+        y = []
+        for item in x:
+            y += item.sort(key=lambda a: a[1])
+        print(y)
 
     def get_mel_text_pair(self, audiopath_and_text):
         # separate filename and text
