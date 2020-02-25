@@ -35,7 +35,8 @@ class TextMelLoader(torch.utils.data.Dataset):
         for item in x:
             item = list(item)
             print(index)
-            y += item.sort(key=lambda a: len(a))
+            item.sort(key=lambda a: len(a))
+            x[index] = item
             index += 1
         print(y)
 
