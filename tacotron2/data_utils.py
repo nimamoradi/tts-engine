@@ -31,10 +31,12 @@ class TextMelLoader(torch.utils.data.Dataset):
         x = np.split(x, [item * 100 + 100 for item in range(int(x_len/100))])
         y = []
         x = list(x)
+        index = 0
         for item in x:
             item = list(item)
-            print(item,type(item))
+            print(index)
             y += item.sort(key=lambda a: len(a[1]))
+            index += 1
         print(y)
 
     def get_mel_text_pair(self, audiopath_and_text):
