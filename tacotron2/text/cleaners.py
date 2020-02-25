@@ -92,4 +92,5 @@ def english_cleaners(text):
 
 def persian_cleaners(text):
   text = collapse_whitespace(text)
+  text = text.replace("\u200c"," ")
   return text
