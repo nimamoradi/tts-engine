@@ -24,20 +24,22 @@ class TextMelLoader(torch.utils.data.Dataset):
             hparams.filter_length, hparams.hop_length, hparams.win_length,
             hparams.n_mel_channels, hparams.sampling_rate, hparams.mel_fmin,
             hparams.mel_fmax)
-        random.seed(15899)
-        random.shuffle(self.audiopaths_and_text)
+        # random.seed(15899)
+        # random.shuffle(self.audiopaths_and_text)
         x = np.array((self.audiopaths_and_text))
         x_len = len(x)
         x = np.split(x, [item * 4 + 4 for item in range(1500)])
         y = []
-        x = list(x)
-        index = 0
-        for item in x:
-            item = list(item)
-            item.sort(key=lambda a: len(a[1]))
-            x[index] = item
-            index += 1
-            y += item
+        y = list(x)
+        # item = list(item)
+        y.sort(key=lambda a: len(a[1]))
+        # index = 0
+        # for item in x:
+        #     item = list(item)
+        #     item.sort(key=lambda a: len(a[1]))
+        #     x[index] = item
+        #     index += 1
+        #     y += item
         
         self.audiopaths_and_text = y
 
