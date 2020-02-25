@@ -26,13 +26,13 @@ class TextMelLoader(torch.utils.data.Dataset):
             hparams.mel_fmax)
         # random.seed(15899)
         # random.shuffle(self.audiopaths_and_text)
-        x = np.array((self.audiopaths_and_text))
-        x_len = len(x)
+        # x = np.array((self.audiopaths_and_text))
+        # x_len = len(x)
         # x = np.split(x, [item * 4 + 4 for item in range(1500)])
         # y = []
         y = list(x)
         # item = list(item)
-        y.sort(key=lambda a: -len(a[1]))
+        y.sort(key=lambda a: len(a[1]))
         # index = 0
         # for item in x:
         #     item = list(item)
@@ -41,7 +41,7 @@ class TextMelLoader(torch.utils.data.Dataset):
         #     index += 1
         #     y += item
         
-        self.audiopaths_and_text = y
+        self.audiopaths_and_text =reversed(y) 
 
     def get_mel_text_pair(self, audiopath_and_text):
         # separate filename and text
