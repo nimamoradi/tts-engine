@@ -24,7 +24,7 @@ class TextMelLoader(torch.utils.data.Dataset):
             hparams.filter_length, hparams.hop_length, hparams.win_length,
             hparams.n_mel_channels, hparams.sampling_rate, hparams.mel_fmin,
             hparams.mel_fmax)
-        random.seed(randint(1,10001))
+        random.seed(random.randint(1,10001))
         random.shuffle(self.audiopaths_and_text)
         # x = np.array((self.audiopaths_and_text))
         # x_len = len(x)
