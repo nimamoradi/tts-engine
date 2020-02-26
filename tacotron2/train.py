@@ -55,7 +55,7 @@ def prepare_dataloaders(hparams):
 
     train_loader = DataLoader(trainset, num_workers=0, shuffle=shuffle,
                               sampler=train_sampler,
-                              batch_size=hparams.batch_size, pin_memory=False,
+                              batch_size=hparams.batch_size, pin_memory=True,
                               drop_last=True, collate_fn=collate_fn)
     return train_loader, valset, collate_fn
 
@@ -127,7 +127,7 @@ def validate(model, criterion, valset, iteration, batch_size, n_gpus,
         val_sampler = DistributedSampler(valset) if distributed_run else None
         val_loader = DataLoader(valset, sampler=val_sampler, num_workers=0,
                                 shuffle=False, batch_size=batch_size,
-                                pin_memory=False, collate_fn=collate_fn)
+                                pin_memory=True, collate_fn=collate_fn)
 
         val_loss = 0.0
         for i, batch in enumerate(val_loader):
