@@ -55,7 +55,7 @@ def create_hparams(hparams_string=None, verbose=False):
         #	6- If audio quality is too metallic or fragmented (or if linear spectrogram plots are showing black silent regions on top), then restart from step 2.
 
         max_wav_value=32768.0,
-        sampling_rate=11025,
+        sampling_rate=22050,
         filter_length=1024,
         hop_length=256,
         win_length=1024,
@@ -103,7 +103,7 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate=1e-3,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=4,
+        batch_size=56,
         mask_padding=True  # set model's padded outputs to padded values
     )
 
