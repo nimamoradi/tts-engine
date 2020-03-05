@@ -25,9 +25,9 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/quran_text_train_filelist.txt',
-        validation_files='filelists/quran_text_val_filelist.txt',
-        test_files='filelists/quran_text_test_filelist.txt',
+        training_files='filelists/train.csv',
+        validation_files='filelists/val.csv',
+        test_files='filelists/test.csv',
         text_cleaners=['persian_cleaners'],
 
         ################################
