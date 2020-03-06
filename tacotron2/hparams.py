@@ -9,8 +9,8 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Experiment Parameters        #
         ################################
-        epochs=10000,
-        iters_per_checkpoint=50,
+        epochs=1000,
+        iters_per_checkpoint=200,
         seed=1234,
         dynamic_loss_scaling=True,
         fp16_run=False,
@@ -60,7 +60,7 @@ def create_hparams(hparams_string=None, verbose=False):
         hop_length=256,
         win_length=1024,
         n_mel_channels=80,
-        mel_fmin=80.0,
+        mel_fmin=0.0,
         mel_fmax=8000.0,
 
         ################################
