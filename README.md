@@ -18,5 +18,5 @@ because mozilla audio is more than 211 h of audio we procced only small portion 
 
 
 ## Audio samples
-I listed some of audio the model genarated you can listen them in ![soundcloud](https://soundcloud.com/nima-moradi-78715897/sets/tacotron-2-audio-persian).
+I listed some of audio the model genarated you can listen them in [soundcloud](https://soundcloud.com/nima-moradi-78715897/sets/tacotron-2-audio-persian).
 
