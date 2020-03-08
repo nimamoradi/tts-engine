@@ -1,7 +1,20 @@
 #Tacotron 2 
 
 Pytorch implementation of DeepMind's Tacotron-2 : [Natural TTS synthesis by conditioning Wavenet on MEL spectogram predictions](https://arxiv.org/pdf/1712.05884.pdf)
-
+## Folder Structure
+<pre>
+└───tacotron2
+    ├───content
+    │   └───tacotron2
+    │       └───filelists
+    ├───filelists
+    ├───outdir
+    │   └───logdir
+    ├───text
+    │   ├───data_prepare
+    │   └───__pycache__
+    └───waveglow
+    </pre>
 ## Setup
 
 - Step **(0)**: Get your dataset; for persain lauguge the only open source dataset is [Mozilla common voice](https://voice.mozilla.org/en/datasets)
