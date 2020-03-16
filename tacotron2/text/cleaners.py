@@ -95,6 +95,5 @@ def persian_cleaners(text):
   text = text.replace("\u200c"," ")
   text = text.replace("«"," ")
   text = text.replace("»"," ")
-  
-  print(text)
-  return text
+
+  return text[::-1]
