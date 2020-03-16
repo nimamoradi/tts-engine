@@ -78,8 +78,8 @@ def create_hparams(hparams_string=None, verbose=False):
         n_frames_per_step=1,  # currently only 1 is supported
         decoder_rnn_dim=1024,
         prenet_dim=256,
-        max_decoder_steps=1000,
-        gate_threshold=0.66,
+        max_decoder_steps=1100,
+        gate_threshold=0.33,
         p_attention_dropout=0.1,
         p_decoder_dropout=0.1,
 
