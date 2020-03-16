@@ -79,7 +79,7 @@ def create_hparams(hparams_string=None, verbose=False):
         decoder_rnn_dim=1024,
         prenet_dim=256,
         max_decoder_steps=1000,
-        gate_threshold=0.3,
+        gate_threshold=0.66,
         p_attention_dropout=0.1,
         p_decoder_dropout=0.1,
 
@@ -103,7 +103,7 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate=1.5e-3,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=40,
+        batch_size=56,
         # old value 52
         # 56 for 16
         # 40 for 11
