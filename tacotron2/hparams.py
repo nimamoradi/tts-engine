@@ -25,9 +25,9 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/train.csv',
-        validation_files='filelists/val.csv',
-        test_files='filelists/test.csv',
+        training_files='filelists/quran_text_train_filelist_new.txt',
+        validation_files='filelists/quran_text_val_filelist_new.txt',
+        test_files='filelists/quran_text_test_filelist_new.txt',
         text_cleaners=['persian_cleaners'],
 
         ################################
@@ -104,9 +104,6 @@ def create_hparams(hparams_string=None, verbose=False):
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
         batch_size=56,
-        # old value 52
-        # 56 for 16
-        # 40 for 11
         
         mask_padding=True  # set model's padded outputs to padded values
     )
