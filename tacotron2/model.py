@@ -444,6 +444,8 @@ class Decoder(nn.Module):
                 break
             elif len(mel_outputs) == self.max_decoder_steps:
                 print("Warning! Reached max decoder steps")
+                print('len(mel_outputs) == self.max_decoder_steps',len(mel_outputs) ,self.max_decoder_steps)
+                print('torch.sigmoid(gate_output.data) > self.gate_threshold ',torch.sigmoid(gate_output.data) , self.gate_threshold)
                 break
 
             decoder_input = mel_output
