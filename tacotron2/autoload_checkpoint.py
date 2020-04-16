@@ -6,7 +6,7 @@ base_path = "/content/tts-engine/gdrive/My Drive/outdir"
 
 class autoload_checkpoint:
         def __init__(self):
-                list = ("/content/tts-engine/gdrive/My Drive/outdir/checkpoint_*"))
+                list = glob.glob("/content/tts-engine/gdrive/My Drive/outdir/checkpoint_*")
                 print(list)
                 file_names = [] 
                 for file in list:
