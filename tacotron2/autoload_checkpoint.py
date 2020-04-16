@@ -13,7 +13,9 @@ class autoload_checkpoint:
                         name = file.replace('/content/tts-engine/gdrive/My Drive/outdir/checkpoint_',"")
                         file_names.append(name)
                 results = [int(i) for i in file_names]
-
-                latest = max(results)
-                self.latest = base_path +"/"+ save_pharse + str(latest)
-                print("biggest file is " + self.latest)
+                if len(results) is not 0:
+                        latest = max(results)
+                        self.latest = base_path +"/"+ save_pharse + str(latest)
+                        print("biggest file is " + self.latest)
+                else:
+                        self.latest = None
