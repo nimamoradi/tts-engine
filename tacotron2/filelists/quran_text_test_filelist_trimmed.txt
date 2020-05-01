@@ -1,183 +1,190 @@
-/content/tts-engine/gdrive/My Drive/wavs/051024.wav|aia khabr mahmanhay bazrgoar abrahim bah to rasidh ast
-/content/tts-engine/gdrive/My Drive/wavs/082013.wav|bah yaghin nikan dar namti faravannd
-/content/tts-engine/gdrive/My Drive/wavs/043007.wav|vali hich piambri bah soy anha namiamd magr ainkh o ra asthza mikrdnd
-/content/tts-engine/gdrive/My Drive/wavs/037134.wav|v bah khatr bior zamani ra kah o v khandansh ra hamgi najat dadim
-/content/tts-engine/gdrive/My Drive/wavs/067024.wav|bago o kasi ast kah shama ra dar zamin afrid v bah soy o mahshor mishoyd
-/content/tts-engine/gdrive/My Drive/wavs/100005.wav|v naghan dar mian dashmn zahr shadnd
-/content/tts-engine/gdrive/My Drive/wavs/007114.wav|gaft ari v shama az maghrban khoahid bod
-/content/tts-engine/gdrive/My Drive/wavs/020125.wav|migoyd parordgara chara nabina mahshorm kardi man kah bina bodm
-/content/tts-engine/gdrive/My Drive/wavs/031005.wav|anan bar tarigh hadayt az parordgarshannd v anannd rastgaran
-/content/tts-engine/gdrive/My Drive/wavs/026173.wav|v barani az sang bar anha farstadim chah baran badi bod baran anzarshdgan
-/content/tts-engine/gdrive/My Drive/wavs/075021.wav|v akhrt ra raha miknid
-/content/tts-engine/gdrive/My Drive/wavs/090017.wav|saps az kasani bashd kah aiman ordh v yakdigr ra bah shakibayi v rahmt tosih miknnd
-/content/tts-engine/gdrive/My Drive/wavs/096016.wav|haman nasih daroghgoy khatakar ra
-/content/tts-engine/gdrive/My Drive/wavs/091011.wav|ghom samod bar asr taghian piambrshan ra takzib kardnd
-/content/tts-engine/gdrive/My Drive/wavs/111004.wav|v niz hamsrsh dar hali kah hizmksh dozkh ast
-/content/tts-engine/gdrive/My Drive/wavs/055057.wav|pas kadamin namthay parordgartan ra ankar miknid
-/content/tts-engine/gdrive/My Drive/wavs/080028.wav|v angor v sabzi basiar
-/content/tts-engine/gdrive/My Drive/wavs/089001.wav|bah sapidh dam sognd
-/content/tts-engine/gdrive/My Drive/wavs/036003.wav|kah to ghata az rasolan khadavnd hasti
-/content/tts-engine/gdrive/My Drive/wavs/080003.wav|to chah midani shayd o paki v taghoa pishh kand
-/content/tts-engine/gdrive/My Drive/wavs/051021.wav|v dar vajod khod shama niz aiati ast aia namibinid
-/content/tts-engine/gdrive/My Drive/wavs/012095.wav|gaftnd bah khada to dar haman gamrahi sabght hasti
-/content/tts-engine/gdrive/My Drive/wavs/096011.wav|bah man khabr dah agr ain bandh bah rah hadayt bashd
-/content/tts-engine/gdrive/My Drive/wavs/100011.wav|dar an roz parordgarshan az anha kamla bakhbr ast
-/content/tts-engine/gdrive/My Drive/wavs/026096.wav|anha dar anja dar hali kah bah makhasmh barkhasthand migoynd
-/content/tts-engine/gdrive/My Drive/wavs/037092.wav|asla chara sakhn namigoyid
-/content/tts-engine/gdrive/My Drive/wavs/098002.wav|piambri az soy khada biaid kah sahifhhay paki ra bar anha bakhoand
-/content/tts-engine/gdrive/My Drive/wavs/077039.wav|agr charhay dar barabr man baray farar az changal majazat darid anjam dahid
-/content/tts-engine/gdrive/My Drive/wavs/079025.wav|az ain ro khadavnd o ra bah azab akhrt v dania garftar sakht
-/content/tts-engine/gdrive/My Drive/wavs/037050.wav|dar hali kah anha ghargh gaftgo hastnd bazi ro bah bazi digr kardh miprsnd
-/content/tts-engine/gdrive/My Drive/wavs/056085.wav|v ma az shama bah o nazdiktrim vali namibinid
-/content/tts-engine/gdrive/My Drive/wavs/020027.wav|v garh az zabanm bagshay
-/content/tts-engine/gdrive/My Drive/wavs/053049.wav|v ainkh ost parordgar satarh shara
-/content/tts-engine/gdrive/My Drive/wavs/030057.wav|an roz azrkhoahi zalman sodi bah halshan nadard v tobh anan pazirfth namishod
-/content/tts-engine/gdrive/My Drive/wavs/017091.wav|ya baghi az nakhl v angor az an to bashd v nahrha dar labhlay an jari kani
-/content/tts-engine/gdrive/My Drive/wavs/054041.wav|v hamchnin anzarha v hashdarha yaki pas az digri bah saragh al faravn amd
-/content/tts-engine/gdrive/My Drive/wavs/084009.wav|v khoshhal bah ahl v khanoadhash bazmigrdd
-/content/tts-engine/gdrive/My Drive/wavs/037165.wav|v ma hamgi baray atat farman khadavnd bah saf aistadhaym
-/content/tts-engine/gdrive/My Drive/wavs/051034.wav|sanghayi kah az nahih parordgart baray asrafkaran nashan gazashth shadh ast
-/content/tts-engine/gdrive/My Drive/wavs/053021.wav|aia sahm shama pasr ast v sahm o dakhtr dar hali kah bazam shama dakhtran kam arzshtrnd
-/content/tts-engine/gdrive/My Drive/wavs/056075.wav|sognd bah jaygah satargan v mahl talo v gharob anha
-/content/tts-engine/gdrive/My Drive/wavs/070028.wav|chara kah hich kas az azab parordgarsh dar aman nist
-/content/tts-engine/gdrive/My Drive/wavs/021053.wav|gaftnd ma padran khod ra didim kah anha ra abadt miknnd
-/content/tts-engine/gdrive/My Drive/wavs/077045.wav|vay dar an roz bar takzibknndgan
-/content/tts-engine/gdrive/My Drive/wavs/037129.wav|ma nam nik o ra dar mian amthay bad baghi gazardim
-/content/tts-engine/gdrive/My Drive/wavs/026213.wav|ai piambr hich mabodi ra ba khadavnd makhoan kah az mazbin khoahi bod
-/content/tts-engine/gdrive/My Drive/wavs/070005.wav|pas sabr jamil pishh kan
-/content/tts-engine/gdrive/My Drive/wavs/051047.wav|v ma asman ra ba ghadrt bana kardim v hamoarh an ra vasat mibkhshim
-/content/tts-engine/gdrive/My Drive/wavs/039014.wav|bago man tanha khada ra miprstm dar hali kah dinm ra baray o khals miknm
-/content/tts-engine/gdrive/My Drive/wavs/051049.wav|v az har chiz do jaft afridim shayd matzkr shoyd
-/content/tts-engine/gdrive/My Drive/wavs/026091.wav|v dozkh baray gamrahan ashkar migrdd
-/content/tts-engine/gdrive/My Drive/wavs/074032.wav|ainchnin nist kah anha tasor miknnd sognd bah mah
-/content/tts-engine/gdrive/My Drive/wavs/088018.wav|v bah asman nagah namiknnd kah chagonh barafrashth shadh
-/content/tts-engine/gdrive/My Drive/wavs/053043.wav|v ainkh ost kah khandand v gariand
-/content/tts-engine/gdrive/My Drive/wavs/054023.wav|tayfh samod niz anzarhay alhi ra takzib kardnd
-/content/tts-engine/gdrive/My Drive/wavs/075031.wav|dar an roz gafth mishod o hargz aiman niord v namaz nakhoand
-/content/tts-engine/gdrive/My Drive/wavs/076026.wav|v dar shabangah baray o sajdh kan v maghdari tolani az shab o ra tasbih goy
-/content/tts-engine/gdrive/My Drive/wavs/026176.wav|ashab aikh  shahri nazdik madin rasolan khada ra takzib kardnd
-/content/tts-engine/gdrive/My Drive/wavs/056024.wav|ainha padashi ast dar barabr amali kah anjam midadnd
-/content/tts-engine/gdrive/My Drive/wavs/025056.wav|ai piambr ma to ra jaz banoan bashart dahndh v anzar kanndh nafrstadim
-/content/tts-engine/gdrive/My Drive/wavs/019019.wav|gaft man farstadh parordgar toam amdham ta pasr pakizhay bah to babkhshm
-/content/tts-engine/gdrive/My Drive/wavs/037024.wav|anha ra naghdarid kah bayd bazprsi shond
-/content/tts-engine/gdrive/My Drive/wavs/067025.wav|anha migoynd agr rast migoyid ain vadh ghiamt chah zamani ast
-/content/tts-engine/gdrive/My Drive/wavs/056062.wav|shama alm nakhstin ra danstid chagonh matzkr namishoyd kah jahani bad az an ast
-/content/tts-engine/gdrive/My Drive/wavs/072004.wav|v ainkh safih ma ablis darbarh khadavnd sakhnan naroa migft
-/content/tts-engine/gdrive/My Drive/wavs/015090.wav|ma bar anha azabi mifrstim haman gonh kah bar tajzihgran aiat alhi farstadim
-/content/tts-engine/gdrive/My Drive/wavs/026212.wav|anha az astragh sama v shanidn akhbar asmanha barknarnd
-/content/tts-engine/gdrive/My Drive/wavs/079012.wav|migoynd agr ghiamti dar kar bashd bazgshti ast zianbar
-/content/tts-engine/gdrive/My Drive/wavs/081024.wav|v o nasbt bah anchh az tarigh vahi dariaft dashth bakhl nadard
-/content/tts-engine/gdrive/My Drive/wavs/077017.wav|saps digr majrman ra bah danbal anha mifrstim
-/content/tts-engine/gdrive/My Drive/wavs/098003.wav|v dar an noshthhay sahih v pararzshi bashd vali hangami kah amd aiman niordnd mannd ahl katab
-/content/tts-engine/gdrive/My Drive/wavs/094007.wav|pas hangami kah az kar mahmi fargh mishoy bah mahm digri pardaz
-/content/tts-engine/gdrive/My Drive/wavs/081008.wav|v dar an hangam kah az dakhtran zandh bah gor shadh sal shod
-/content/tts-engine/gdrive/My Drive/wavs/079021.wav|ama o takzib v asian kard
-/content/tts-engine/gdrive/My Drive/wavs/074014.wav|v vasayl zandgi ra az har nazr baray vi farahm sakhtm
-/content/tts-engine/gdrive/My Drive/wavs/002043.wav|v namaz ra bapa darid v zakat ra baprdazid v hamrah rako kanndgan rako kanid v namaz ra ba jamat bagzarid
-/content/tts-engine/gdrive/My Drive/wavs/040072.wav|v dar ab joshan vard miknnd saps dar atsh dozkh afrokhth mishond
-/content/tts-engine/gdrive/My Drive/wavs/071022.wav|v ain rahbran gamrah makr azimi bah kar bardnd
-/content/tts-engine/gdrive/My Drive/wavs/001002.wav|sataysh makhsos khadavndi ast kah parordgar jahanian ast
-/content/tts-engine/gdrive/My Drive/wavs/050013.wav|v hamchnin ghom ad v faravn v ghom lot
-/content/tts-engine/gdrive/My Drive/wavs/101007.wav|dar yak zandgi khashnodknndh khoahd bod
-/content/tts-engine/gdrive/My Drive/wavs/079026.wav|dar ain abrti ast baray kasi kah az khada batrsd
-/content/tts-engine/gdrive/My Drive/wavs/056060.wav|ma dar mian shama marg ra maghdr sakhtim v hargz kasi bar ma pishi namigird
-/content/tts-engine/gdrive/My Drive/wavs/055007.wav|v asman ra barafrasht v mizan v ghanon dar an gazasht
-/content/tts-engine/gdrive/My Drive/wavs/068022.wav|kah basoy kashtzar v bagh khod harkt kanid agr ghasd chidn mivhha ra darid
-/content/tts-engine/gdrive/My Drive/wavs/035016.wav|agr bakhoahd shama ra mibrd v khalgh jadidi miord
-/content/tts-engine/gdrive/My Drive/wavs/044040.wav|roz jadayi hagh az batl vadhgah hamh anhast
-/content/tts-engine/gdrive/My Drive/wavs/015061.wav|hangami kah farstadgan khada bah saragh khandan lot amdnd
-/content/tts-engine/gdrive/My Drive/wavs/052017.wav|vali parhizgaran dar mian baghhay bahsht v namthay faravan jay darnd
-/content/tts-engine/gdrive/My Drive/wavs/086004.wav|bah ain ait bazrg alhi sognd kah har kas maraghb v mahafzi dard
-/content/tts-engine/gdrive/My Drive/wavs/082007.wav|haman khadayi kah to ra afrid v saman dad v manzm sakht
-/content/tts-engine/gdrive/My Drive/wavs/078011.wav|v roz ra vasilhay baray zandgi v mash
-/content/tts-engine/gdrive/My Drive/wavs/026110.wav|pas taghoai alhi pishh kanid v mara atat namayid
-/content/tts-engine/gdrive/My Drive/wavs/069002.wav|chah roz vagha shadni
-/content/tts-engine/gdrive/My Drive/wavs/055026.wav|hamh kasani kah roy an  zamin hastnd fani mishond
-/content/tts-engine/gdrive/My Drive/wavs/083009.wav|namhay ast raghm zadh shadh v sarnoshti ast hatmi
-/content/tts-engine/gdrive/My Drive/wavs/026055.wav|v ainha ma ra bah khashm ordhand
-/content/tts-engine/gdrive/My Drive/wavs/026200.wav|ari ain gonh ba biani rasa gharan ra dar dalhay majrman vard miknim
-/content/tts-engine/gdrive/My Drive/wavs/082017.wav|to chah midani roz jaza chist
-/content/tts-engine/gdrive/My Drive/wavs/026100.wav|afsos kah amroz shafatknndgani baray ma vajod nadard
-/content/tts-engine/gdrive/My Drive/wavs/096018.wav|ma ham bazodi mamoran dozkh ra sada miznim ta o ra bah dozkh afknnd
-/content/tts-engine/gdrive/My Drive/wavs/037111.wav|o az bandgan baiman ma ast
-/content/tts-engine/gdrive/My Drive/wavs/003005.wav|hich chiz dar asman v zamin bar khada makhfi namimand banabr ain tadbir anha bar o mashkl nist
-/content/tts-engine/gdrive/My Drive/wavs/026142.wav|hangami kah salh bah anan gaft aia taghoa pishh namiknid
-/content/tts-engine/gdrive/My Drive/wavs/074037.wav|baray kasani az shama kah mikhoahnd pish aftnd ya aghb bamannd  basoy hadayt v niki pish rond ya narond
-/content/tts-engine/gdrive/My Drive/wavs/090018.wav|anha ashab aliminand kah namh amalshan ra bah dast rastshan midhnd
-/content/tts-engine/gdrive/My Drive/wavs/056042.wav|anha dar mian badhay kashndh v ab sozan gharar darnd
-/content/tts-engine/gdrive/My Drive/wavs/084021.wav|v hangami kah gharan bar anha khoandh mishod sajdh namiknnd
-/content/tts-engine/gdrive/My Drive/wavs/104005.wav|v to chah midani hetmh chist
-/content/tts-engine/gdrive/My Drive/wavs/019067.wav|aia ansan bah khatr namiord kah ma pish az ain o ra afridim dar hali kah chizi nabod
-/content/tts-engine/gdrive/My Drive/wavs/026111.wav|gaftnd aia ma bah to aiman biorim dar hali kah afrad past v biarzsh az to piroy kardhand
-/content/tts-engine/gdrive/My Drive/wavs/026027.wav|faravn gaft piambri kah basoy shama farstadh shadh maslma divanh ast
-/content/tts-engine/gdrive/My Drive/wavs/022043.wav|v hamchnin ghom abrahim v ghom lot
-/content/tts-engine/gdrive/My Drive/wavs/026001.wav|tasm
-/content/tts-engine/gdrive/My Drive/wavs/074006.wav|v mant magzar v fazoni matlb
-/content/tts-engine/gdrive/My Drive/wavs/050035.wav|har chah bakhoahnd dar anja baray anha hast v nazd ma namthay bishtri ast kah bah fakr hich kas namirsd
-/content/tts-engine/gdrive/My Drive/wavs/037143.wav|v agr o az tasbihknndgan nabod
-/content/tts-engine/gdrive/My Drive/wavs/026082.wav|v kasi kah amid darm ganahm ra dar roz jaza babkhshd
-/content/tts-engine/gdrive/My Drive/wavs/054044.wav|ya migoynd ma jamati mathd v niromnd v pirozim
-/content/tts-engine/gdrive/My Drive/wavs/092015.wav|kasi jaz badbkhttrin mardm vard an namishod
-/content/tts-engine/gdrive/My Drive/wavs/026069.wav|v bar anan khabr abrahim ra bakhoan
-/content/tts-engine/gdrive/My Drive/wavs/021064.wav|anha bah vajdan khoysh bazgshtnd v bah khod gaftnd hagha kah shama satmgrid
-/content/tts-engine/gdrive/My Drive/wavs/050020.wav|v dar sor damidh mishod an roz roz tahghgh vadh vahshtnak ast
-/content/tts-engine/gdrive/My Drive/wavs/080006.wav|to bah o roy miori
-/content/tts-engine/gdrive/My Drive/wavs/043016.wav|aia az mian makhloghatsh dakhtran ra baray khod antkhab kardh v pasran ra baray shama bargzidh ast
-/content/tts-engine/gdrive/My Drive/wavs/083011.wav|hamanha kah roz jaza ra ankar miknnd
-/content/tts-engine/gdrive/My Drive/wavs/055060.wav|aia jazay niki jaz niki ast
-/content/tts-engine/gdrive/My Drive/wavs/078019.wav|v asman gashodh mishod v basort darhay mataddi darmiaid
-/content/tts-engine/gdrive/My Drive/wavs/026143.wav|man baray shama piambri amin hastm
-/content/tts-engine/gdrive/My Drive/wavs/075025.wav|zira midand azabi dar pish dard kah pasht ra dar ham mishknd
-/content/tts-engine/gdrive/My Drive/wavs/071018.wav|saps shama ra bah haman zamin bazmigrdand v bar digr shama ra kharj misazd
-/content/tts-engine/gdrive/My Drive/wavs/053025.wav|dar hali kah akhrt v dania az an khadast
-/content/tts-engine/gdrive/My Drive/wavs/068029.wav|gaftnd manzh ast parordgar ma maslma ma zalm bodim
-/content/tts-engine/gdrive/My Drive/wavs/015069.wav|v az khada batrsid v mara sharmndh nasazid
-/content/tts-engine/gdrive/My Drive/wavs/096004.wav|haman kasi kah bosilh ghalm talim namod
-/content/tts-engine/gdrive/My Drive/wavs/007068.wav|rasalthay parordgarm ra bah shama ablagh miknm v man khirkhoah amini baray shama hastm
-/content/tts-engine/gdrive/My Drive/wavs/085019.wav|vali kafran pivsth dar takzib haghnd
-/content/tts-engine/gdrive/My Drive/wavs/015049.wav|bandganm ra agah kan kah man bakhshndh mahrbanm
-/content/tts-engine/gdrive/My Drive/wavs/019056.wav|v dar ain katab az adris niz yad kan o basiar rastgo v piambr bazrgi bod
-/content/tts-engine/gdrive/My Drive/wavs/055023.wav|pas kadamin namthay parordgartan ra ankar miknid
-/content/tts-engine/gdrive/My Drive/wavs/038077.wav|farmod az asmanha v safof malakh kharj sho kah to randh dargah mani
-/content/tts-engine/gdrive/My Drive/wavs/026163.wav|pas taghoai alhi pishh kanid v mara atat namayid
-/content/tts-engine/gdrive/My Drive/wavs/008022.wav|badtrin janbndgan nazd khada afrad kar v lali hastnd kah andishh namiknnd
-/content/tts-engine/gdrive/My Drive/wavs/077028.wav|vay dar an roz bar takzibknndgan
-/content/tts-engine/gdrive/My Drive/wavs/017074.wav|v agr ma to ra sabt ghadm namisakhtim v dar parto magham asmt mason az anhraf nabodi nazdik bod bah anan tamayl kani
-/content/tts-engine/gdrive/My Drive/wavs/056066.wav|bagonhay kah bagoyid barasti ma zian kardhaym
-/content/tts-engine/gdrive/My Drive/wavs/083010.wav|vay dar an roz bar takzibknndgan
-/content/tts-engine/gdrive/My Drive/wavs/026117.wav|gaft parordgara ghom man mara takzib kardnd
-/content/tts-engine/gdrive/My Drive/wavs/002045.wav|az sabr v namaz yari joaid v ba astghamt v mahar hoshay daroni v tojh bah parordgar  niro bagirid v ain kar jaz baray khashan garan ast
-/content/tts-engine/gdrive/My Drive/wavs/078033.wav|v horiani basiar joan v hamsn v sal
-/content/tts-engine/gdrive/My Drive/wavs/114002.wav|bah malk v hakm mardm
-/content/tts-engine/gdrive/My Drive/wavs/080041.wav|v dod tariki anha ra poshandh ast
-/content/tts-engine/gdrive/My Drive/wavs/052015.wav|aia ain sahr ast ya shama namibinid
-/content/tts-engine/gdrive/My Drive/wavs/044048.wav|saps bar sar o az azab joshan barizid
-/content/tts-engine/gdrive/My Drive/wavs/017036.wav|az anchh bah an agahi nadari piroy makn chara kah gosh v chashm v dal hamh masolnd
-/content/tts-engine/gdrive/My Drive/wavs/074015.wav|baz ham tama dard kah bar o bifzaym
-/content/tts-engine/gdrive/My Drive/wavs/080007.wav|dar hali kah agr o khod ra pak nasazd chizi bar to nist
-/content/tts-engine/gdrive/My Drive/wavs/023007.wav|v kasani kah ghir az ain tarigh ra talb kannd tajavzgrnd
-/content/tts-engine/gdrive/My Drive/wavs/056031.wav|v dar kanar absharha
-/content/tts-engine/gdrive/My Drive/wavs/070038.wav|aia har yak az anha ba ain amal zashtsh tama dard kah o ra dar bahsht par namt alhi vard kannd
-/content/tts-engine/gdrive/My Drive/wavs/026002.wav|ain aiat katab roshngr ast
-/content/tts-engine/gdrive/My Drive/wavs/011022.wav|bah nachar anha dar saray akhrt ghata az hamh ziankartrnd
-/content/tts-engine/gdrive/My Drive/wavs/083030.wav|v hangami kah az kanarshan migzshtnd anan ra ba asharh tamskhr mikrdnd
-/content/tts-engine/gdrive/My Drive/wavs/036024.wav|agr chanin kanm man dar gamrahi ashkari khoahm bod
-/content/tts-engine/gdrive/My Drive/wavs/037108.wav|v nam nik o ra dar amthay bad baghi nahadim
-/content/tts-engine/gdrive/My Drive/wavs/075018.wav|pas har gah an ra khoandim az khoandn an piroy kan
-/content/tts-engine/gdrive/My Drive/wavs/043005.wav|aia ain zakr  gharan ra az shama bazgirim bakhatr ainkh ghomi asrafkarid
-/content/tts-engine/gdrive/My Drive/wavs/050003.wav|aia hangami kah merdim v khak shadim dobarh bah zandgi bazmigrdim ain bazgshti bayd ast
-/content/tts-engine/gdrive/My Drive/wavs/019028.wav|ai khoahr haron nah padrt mard badi bod v nah madrt zan bad karhay
-/content/tts-engine/gdrive/My Drive/wavs/056080.wav|an az soy parordgar almian nazl shadh
-/content/tts-engine/gdrive/My Drive/wavs/071013.wav|chara shama baray khada azmt ghal nistid
-/content/tts-engine/gdrive/My Drive/wavs/080026.wav|saps zamin ra az ham shakaftim
-/content/tts-engine/gdrive/My Drive/wavs/015066.wav|v ma bah lot ain mozo ra vahi farstadim kah sabhgahan hamh anha rishhkn khoahnd shad
-/content/tts-engine/gdrive/My Drive/wavs/027071.wav|anha migoynd ain vadh azab kah bah ma midhid ki khoahd amd agr rast migoyid
-/content/tts-engine/gdrive/My Drive/wavs/055053.wav|pas kadamin namthay parordgartan ra ankar miknid
-/content/tts-engine/gdrive/My Drive/wavs/020035.wav|chara kah to hamishh az hal ma agah bodhay
-/content/tts-engine/gdrive/My Drive/wavs/077036.wav|v bah anha ajazh dadh namishod kah azrkhoahi kannd
-/content/tts-engine/gdrive/My Drive/wavs/072020.wav|bago man tanha parordgarm ra mikhoanm v hich kas ra sharik o gharar namidhm
-/content/tts-engine/gdrive/My Drive/wavs/078018.wav|rozi kah dar sor damidh mishod v shama foj foj bah mahshr miaiyd
-/content/tts-engine/gdrive/My Drive/wavs/026144.wav|pas taghoai alhi pishh kanid v mara atat namayid
-/content/tts-engine/gdrive/My Drive/wavs/092011.wav|v dar an hangam kah dar jahnm saghot miknd amoalsh bah hal o sodi nakhoahd dasht
-/content/tts-engine/gdrive/My Drive/wavs/037036.wav|v pivsth migftnd aia ma mabodan khod ra bakhatr shari divanh raha kanim
-/content/tts-engine/gdrive/My Drive/wavs/015075.wav|dar ain sargzsht abrtangiz nashanhhayi ast baray hoshiaran
+/content/tts-engine/gdrive/My Drive/wavs/085011.wav|va barAy kasAni ke imAn Avardand va e?mAl Sayeste anjAm dAdand bAqhAyi az beheSt est ke nahrahA zir deraxtAneS jAri est va in nejAt va piruzi bozorg est
+/content/tts-engine/gdrive/My Drive/wavs/085012.wav|gereftan qahr?Amiz va mojAzAt parvardegArt be yaqin besyAr Sodid est
+/content/tts-engine/gdrive/My Drive/wavs/085013.wav|ust ke AfarineS rA AqAz mikand va bAzmigardAnad
+/content/tts-engine/gdrive/My Drive/wavs/085014.wav|va u Amorzande va dustdAr mo?menAn est
+/content/tts-engine/gdrive/My Drive/wavs/085015.wav|sAheb arS va dArAye majd va ezmat est
+/content/tts-engine/gdrive/My Drive/wavs/085016.wav|va AnCe rA mixAhad anjAm midahad
+/content/tts-engine/gdrive/My Drive/wavs/085017.wav|AyA dAstAn laSkarhA be to raside est
+/content/tts-engine/gdrive/My Drive/wavs/085018.wav|laSkaryAn far?un va somud
+/content/tts-engine/gdrive/My Drive/wavs/085019.wav|vali kAfarAn peyvaste dar takzib haqand
+/content/tts-engine/gdrive/My Drive/wavs/085020.wav|va xodAvand be hame AnhA ehAte dArad
+/content/tts-engine/gdrive/My Drive/wavs/085021.wav|in AyAt sahar va doruq nist balke qorAn bA?azemat est
+/content/tts-engine/gdrive/My Drive/wavs/085022.wav|ke dar loh mahfuz jAy dArad
+/content/tts-engine/gdrive/My Drive/wavs/086001.wav|sogand be AsemAn va kubande Sab
+/content/tts-engine/gdrive/My Drive/wavs/086002.wav|va to nemidAni kubande Sab Cist
+/content/tts-engine/gdrive/My Drive/wavs/086003.wav|hamAn setAre deraxSAn va SekAfande tArikihAst
+/content/tts-engine/gdrive/My Drive/wavs/086004.wav|be in Ayat bozorg elAhi sogand ke har kas morAqeb va mohAfezi dArad
+/content/tts-engine/gdrive/My Drive/wavs/086005.wav|ensAn bAyad benegarad ke az Ce Ciz Afaride Sode est
+/content/tts-engine/gdrive/My Drive/wavs/086006.wav|az yek Ab jahande Afaride Sode est
+/content/tts-engine/gdrive/My Drive/wavs/086007.wav|Abi ke az miyAn poSt va sinehA xArej miSavad
+/content/tts-engine/gdrive/My Drive/wavs/086008.wav|mosalaman
+/content/tts-engine/gdrive/My Drive/wavs/086009.wav|dar An ruz ke asrAr nahAn ensAn ASkAr miSud
+/content/tts-engine/gdrive/My Drive/wavs/086010.wav|va barAy u hiC niru va yAvari nist
+/content/tts-engine/gdrive/My Drive/wavs/086011.wav|sogand be AsemAn porbArAn
+/content/tts-engine/gdrive/My Drive/wavs/086012.wav|va sogand be zamin porSekAf ke giyAhAn az An sar barmiAvarand
+/content/tts-engine/gdrive/My Drive/wavs/086013.wav|ke in qorAn soxani est ke haq rA az bAtel jedA mikand
+/content/tts-engine/gdrive/My Drive/wavs/086014.wav|va hargez Suxi nist
+/content/tts-engine/gdrive/My Drive/wavs/086015.wav|AnhA peyvaste hile mikanand
+/content/tts-engine/gdrive/My Drive/wavs/086016.wav|va man ham dar barAbar AnhA CAre mikanam
+/content/tts-engine/gdrive/My Drive/wavs/086017.wav|hAl ke Cenin est kAfarAn rA faqat andaki mohlat deh tA sezAy e?mAlSAn rA bebinand
+/content/tts-engine/gdrive/My Drive/wavs/087001.wav|monazah SomAr nAm parvardegAr bolandmartabe rA
+/content/tts-engine/gdrive/My Drive/wavs/087002.wav|hamAn xodAvandi ke Afarid va monazam kord
+/content/tts-engine/gdrive/My Drive/wavs/087003.wav|va hamAn ke andAzegiri kord va hedAyat nomud
+/content/tts-engine/gdrive/My Drive/wavs/087004.wav|va An kas rA ke CerAgAh rA be vojud Avarad
+/content/tts-engine/gdrive/My Drive/wavs/087005.wav|sepas An rA xoSk va tire qarAr dAd
+/content/tts-engine/gdrive/My Drive/wavs/087006.wav|mA bezudi qorAn rA bor to mixAnim va hargez farAmuS naxAhi kord
+/content/tts-engine/gdrive/My Drive/wavs/087007.wav|magar AnCe rA xodA bexAhad ke u ASkAr va nahAn rA midAnad
+/content/tts-engine/gdrive/My Drive/wavs/087008.wav|va mA to rA barAy anjAm har kAr xeyr AmAde mikanim
+/content/tts-engine/gdrive/My Drive/wavs/087009.wav|pas tazakor deh agar tazakor mofid bASad
+/content/tts-engine/gdrive/My Drive/wavs/087010.wav|va bezudi kasi ke az xodA mitarsad motezaker miSavad
+/content/tts-engine/gdrive/My Drive/wavs/087011.wav|amA badbaxtarin efrAd az An duri migozinad
+/content/tts-engine/gdrive/My Drive/wavs/087012.wav|hamAn kasi ke dar AtaS bozorg vAred miSavad
+/content/tts-engine/gdrive/My Drive/wavs/087013.wav|sepas dar An AtaS noh mimirad va noh zende miSavad
+/content/tts-engine/gdrive/My Drive/wavs/087014.wav|be yaqin kasi ke pAki jast va xod rA tazkiye kord rastegAr Sod
+/content/tts-engine/gdrive/My Drive/wavs/087015.wav|va An ke nAm parvardegAreS rA yAd kord sepas namAz xAnd
+/content/tts-engine/gdrive/My Drive/wavs/087016.wav|vali SomA zendegi donyA rA moqadam midArid
+/content/tts-engine/gdrive/My Drive/wavs/087017.wav|dar hAli ke Axarat behtar va pAydArter est
+/content/tts-engine/gdrive/My Drive/wavs/087018.wav|in dasturhA dar katb AsemAni piSin niz Amade est
+/content/tts-engine/gdrive/My Drive/wavs/087019.wav|dar katb ebrAhim va musA
+/content/tts-engine/gdrive/My Drive/wavs/088001.wav|AyA dAstAn qASiye ruz qiyAmat ke havAdes vahSatnAkeS hame rA mipuSAnad be to raside est
+/content/tts-engine/gdrive/My Drive/wavs/088002.wav|CehrehAyi dar An ruz xASe? va zelatbArand
+/content/tts-engine/gdrive/My Drive/wavs/088003.wav|AnhA ke peyvaste amal karde va xaste Sodeand va natijei AyedSAn naSode est
+/content/tts-engine/gdrive/My Drive/wavs/088004.wav|va dar AtaS suzAn vAred migardand
+/content/tts-engine/gdrive/My Drive/wavs/088005.wav|az CeSmei besyAr dAq be AnAn minuSAnand
+/content/tts-engine/gdrive/My Drive/wavs/088006.wav|qazA?i joz az zaCri? xAr xoSk talx va badbu nadArand
+/content/tts-engine/gdrive/My Drive/wavs/088007.wav|qazAyi ke noh AnhA rA farbe mikand va noh az goresnegi mirahAnad
+/content/tts-engine/gdrive/My Drive/wavs/088008.wav|CehrehAyi dar An ruz SAdAb va bAtrAvtand
+/content/tts-engine/gdrive/My Drive/wavs/088009.wav|va az sa?y va talAS xod xoSnudand
+/content/tts-engine/gdrive/My Drive/wavs/088010.wav|dar beheSti Ali jAy dArand
+/content/tts-engine/gdrive/My Drive/wavs/088011.wav|ke dar An hiC soxan loqu va bihudei nemiSenavand
+/content/tts-engine/gdrive/My Drive/wavs/088012.wav|dar An CeSmei jAri est
+/content/tts-engine/gdrive/My Drive/wavs/088013.wav|dar An taxtehAy zibAy bolandi est
+/content/tts-engine/gdrive/My Drive/wavs/088014.wav|va qadhAyi ke dar kenAr in CeSme nahAde
+/content/tts-engine/gdrive/My Drive/wavs/088015.wav|va bAlSahA va poStihAye safdAde Sode
+/content/tts-engine/gdrive/My Drive/wavs/088016.wav|va farSahAy fAxer gostarde
+/content/tts-engine/gdrive/My Drive/wavs/088017.wav|AyA AnAn be Sotor neminegarand ke Cegune Afaride Sode est
+/content/tts-engine/gdrive/My Drive/wavs/088018.wav|va be AsemAn negAh nemikanand ke Cegune barAfrASte Sode
+/content/tts-engine/gdrive/My Drive/wavs/088019.wav|va be kuhA ke Cegune dar jAy xod nasab gardide
+/content/tts-engine/gdrive/My Drive/wavs/088020.wav|va be zamin ke Cegune gostarde va hamvAr gaSte est
+/content/tts-engine/gdrive/My Drive/wavs/088021.wav|pas tazakor deh ke to faqat tazakor dahandei
+/content/tts-engine/gdrive/My Drive/wavs/088022.wav|to seltegar bor AnAn nisti ke bor imAn majburSAn kani
+/content/tts-engine/gdrive/My Drive/wavs/088023.wav|magar kasi ke poSt konad va kAfar Savad
+/content/tts-engine/gdrive/My Drive/wavs/088024.wav|ke xodAvand u rA be azAb bozorg mojAzAt mikand
+/content/tts-engine/gdrive/My Drive/wavs/088025.wav|be yaqin bAzgaSt hame AnAn be suy mAst
+/content/tts-engine/gdrive/My Drive/wavs/088026.wav|va mosalaman
+/content/tts-engine/gdrive/My Drive/wavs/089001.wav|be sepide dam sogand
+/content/tts-engine/gdrive/My Drive/wavs/089002.wav|va be SabhAy dahgAne
+/content/tts-engine/gdrive/My Drive/wavs/089003.wav|va be zoj va fard
+/content/tts-engine/gdrive/My Drive/wavs/089004.wav|va be Sab hengAmi ke be suy roSanAyi ruz harkat mikand sogand ke parvardegArt dar kamin zAlemAn est
+/content/tts-engine/gdrive/My Drive/wavs/089005.wav|AyA dar AnCe gofte Sod sogand mohmi barAy sAhebAn xarad nist
+/content/tts-engine/gdrive/My Drive/wavs/089006.wav|AyA nadidi parvardegArt bA qom Ad Ce kord
+/content/tts-engine/gdrive/My Drive/wavs/089007.wav|va bA An Sahr e?ram bA?azemat
+/content/tts-engine/gdrive/My Drive/wavs/089008.wav|hamAn Sahri ke mAnandaS dar SahrehA Afaride naSode bud
+/content/tts-engine/gdrive/My Drive/wavs/089009.wav|va qom somud ke soxrehAye azim rA az kenAr dare miboridand va az An xAne va kAx misAxtand
+/content/tts-engine/gdrive/My Drive/wavs/089010.wav|va far?uni ke qodratmand va Sekanjegar bud
+/content/tts-engine/gdrive/My Drive/wavs/089011.wav|hamAn aqvAmi ke dar SahrehA toqyAn kardand
+/content/tts-engine/gdrive/My Drive/wavs/089012.wav|va fesAd farAvAn dar AnhA be bAr Avardand
+/content/tts-engine/gdrive/My Drive/wavs/089013.wav|be hamin sabab xodAvand tAziyAne azAb rA bor AnAn foru rixt
+/content/tts-engine/gdrive/My Drive/wavs/089014.wav|be yaqin parvardegAr to dar kamingAh setamgarAn est
+/content/tts-engine/gdrive/My Drive/wavs/089015.wav|amA ensAn hengAmi ke parvardegAreS u rA barAy AzmAyeS ekrAm mikand va ne?mat mibaxSad maqrur miSavad va miguyad parvardegAram marA gerAmi dASte est
+/content/tts-engine/gdrive/My Drive/wavs/089016.wav|va amA hengAmi ke barAy emtehAn ruziS rA bor u tang migirad ma?yus miSavad va miguyad parvardegAram marA xAr karde est
+/content/tts-engine/gdrive/My Drive/wavs/089017.wav|CenAn nist ke SomA mipendArid SomA yatimAn rA gerAmi nemidArid
+/content/tts-engine/gdrive/My Drive/wavs/089018.wav|va yekdigar rA bor et?Am mostamandAn taSviq nemikanid
+/content/tts-engine/gdrive/My Drive/wavs/089019.wav|va mirAs rA az rAh maSru? va nAmaSru? jam? karde mixorid
+/content/tts-engine/gdrive/My Drive/wavs/089020.wav|va mAl va servat rA besyAr dust dArid va bexAtere An gonAhAn ziyAdi mortakeb miSuyad
+/content/tts-engine/gdrive/My Drive/wavs/089021.wav|CenAn nist ke AnhA mipendArand dar An hengAm ke zamin saxt dar ham kubide Savad
+/content/tts-engine/gdrive/My Drive/wavs/089022.wav|va farmAn parvardegArt ferA rasad va fereStegAn saf dar saf hAzer Savand
+/content/tts-engine/gdrive/My Drive/wavs/089023.wav|va dar An ruz jahanam rA hAzer mikanand Ari dar An ruz ensAn motezaker miSavad amA in tazakor Ce sudi barAy u dArad
+/content/tts-engine/gdrive/My Drive/wavs/089024.wav|miguyad ey kAS barAy in zandegim Cizi az piS ferestAde budam
+/content/tts-engine/gdrive/My Drive/wavs/089025.wav|dar An ruz hiC kas hamAnand u xodA azAb nemikanad
+/content/tts-engine/gdrive/My Drive/wavs/089026.wav|va hiC kas hamCon u kasi rA be band nemikeSad
+/content/tts-engine/gdrive/My Drive/wavs/089027.wav|to ey ruh ArAmyAfte
+/content/tts-engine/gdrive/My Drive/wavs/089028.wav|be suy parvardegArt bAzgard dar hAli ke ham to az u xoSnudi va ham u az to xoSnud est
+/content/tts-engine/gdrive/My Drive/wavs/089029.wav|pas dar selk bandegAnam darAy
+/content/tts-engine/gdrive/My Drive/wavs/089030.wav|va dar beheStanam vAred So
+/content/tts-engine/gdrive/My Drive/wavs/090001.wav|qasam be in Sahr moqadas make
+/content/tts-engine/gdrive/My Drive/wavs/090002.wav|Sahri ke to dar An sAkeni
+/content/tts-engine/gdrive/My Drive/wavs/090003.wav|va qasam be pedar va farzandeS ebrAhim xalil va farzandeS esmA?il zabih
+/content/tts-engine/gdrive/My Drive/wavs/090004.wav|ke mA ensAn rA dar ranj Afaridim va zendegi u por az ranjhAst
+/content/tts-engine/gdrive/My Drive/wavs/090005.wav|AyA u gomAn mikand ke hiC kas nemitavAnad bor u dast yAbad
+/content/tts-engine/gdrive/My Drive/wavs/090006.wav|miguyad mAl ziyAdi rA dar kArhAy xeyr nAbud kardeam
+/content/tts-engine/gdrive/My Drive/wavs/090007.wav|AyA ensAn gomAn mikand hiC kas u rA nadide ke amal xeyri anjAm nadAde est
+/content/tts-engine/gdrive/My Drive/wavs/090008.wav|AyA barAy u do CeSm qarAr nadAdim
+/content/tts-engine/gdrive/My Drive/wavs/090009.wav|va yek zabAn va do lab
+/content/tts-engine/gdrive/My Drive/wavs/090010.wav|va u rA be rAh xeyr va Sar hedAyat kardim
+/content/tts-engine/gdrive/My Drive/wavs/090011.wav|vali u az An gardane mohem nagozaSt
+/content/tts-engine/gdrive/My Drive/wavs/090012.wav|va to nemidAni An gardane Cist
+/content/tts-engine/gdrive/My Drive/wavs/090013.wav|AzAdkardan bordei
+/content/tts-engine/gdrive/My Drive/wavs/090014.wav|yA qazA dAdan dar ruz goresnegi
+/content/tts-engine/gdrive/My Drive/wavs/090015.wav|yatimi az xiSAvandAn
+/content/tts-engine/gdrive/My Drive/wavs/090016.wav|yA mostamandi xAkneSin rA
+/content/tts-engine/gdrive/My Drive/wavs/090017.wav|sepas az kasAni bASad ke imAn Avarde va yekdigar rA be SakibA?i va rahmat tosiye mikanand
+/content/tts-engine/gdrive/My Drive/wavs/090018.wav|AnhA eshAb alayminAnd ke nAme e?mAlSAn rA be dast rAsteSAn midahand
+/content/tts-engine/gdrive/My Drive/wavs/090019.wav|va kasAni ke AyAt mA rA enkAr kardeand efrAdi Sumand ke nAme e?mAlSAn be dast CapSAn dAde miSavad
+/content/tts-engine/gdrive/My Drive/wavs/090020.wav|bor AnhA AtaSi est forubaste ke rAh ferAri az An nist
+/content/tts-engine/gdrive/My Drive/wavs/091001.wav|be xorSid va gostareS nur An sogand
+/content/tts-engine/gdrive/My Drive/wavs/091002.wav|va be mAh hengAmi ke ba?d az An darAyad
+/content/tts-engine/gdrive/My Drive/wavs/091003.wav|va be ruz hengAmi ke safhe zamin rA roSan sAzad
+/content/tts-engine/gdrive/My Drive/wavs/091004.wav|va be Sab An hengAm ke zamin rA bepuSAnad
+/content/tts-engine/gdrive/My Drive/wavs/091005.wav|va qasam be AsemAn va kasi ke AsemAn rA banA karde
+/content/tts-engine/gdrive/My Drive/wavs/091006.wav|va be zamin va kasi ke An rA gostarAnide
+/content/tts-engine/gdrive/My Drive/wavs/091007.wav|va qasam be jAn Adami va An kas ke An rA Afaride va monazam sAxte
+/content/tts-engine/gdrive/My Drive/wavs/091008.wav|sepas fojur va taqvA Sar va xayerS rA be u elhAm karde est
+/content/tts-engine/gdrive/My Drive/wavs/091009.wav|ke har kas nafs xod rA pAk va tazkiye karde rastegAr Sode
+/content/tts-engine/gdrive/My Drive/wavs/091010.wav|va An kas ke nafs xiS rA bA ma?siyat va gonAh Alude sAxte nomid va mahrum gaSte est
+/content/tts-engine/gdrive/My Drive/wavs/091011.wav|qom somud bor asar toqyAn payAmbarSAn rA takzib kardand
+/content/tts-engine/gdrive/My Drive/wavs/091012.wav|AngAh ke Saqitarin AnhA bepAxAst
+/content/tts-engine/gdrive/My Drive/wavs/091013.wav|va ferestAde elAhi sAleh be AnAn goft nAqe xodA hamAn Sotori ke ma?jaze elAhi bud rA bA AbeSxoreS vAgozArid va mozAhem An naSavid
+/content/tts-engine/gdrive/My Drive/wavs/091014.wav|vali AnhA u rA takzib va nAqe rA pey kardand va be helAkat resAndand az in ro parvardegArSAn AnhA va sarzamineSAn rA bexAtere gonAhAnSAn dar ham kubid va bA xAk yeksAn va sAf kord
+/content/tts-engine/gdrive/My Drive/wavs/091015.wav|va u hargez az farjAm in kAr mojAzAt setamgerAn bim nadArad
+/content/tts-engine/gdrive/My Drive/wavs/092001.wav|qasam be Sab dar An hengAm ke jahAn rA bepuSAnad
+/content/tts-engine/gdrive/My Drive/wavs/092002.wav|va qasam be ruz hengAmi ke tajali konad
+/content/tts-engine/gdrive/My Drive/wavs/092003.wav|va qasam be An kas ke jens mozakar va mo?anas rA Afarid
+/content/tts-engine/gdrive/My Drive/wavs/092004.wav|ke sa?y va talAS SomA moxtalef est
+/content/tts-engine/gdrive/My Drive/wavs/092005.wav|amA An kas ke dar rAh xodA anfAq konad va parhizgAri piS girad
+/content/tts-engine/gdrive/My Drive/wavs/092006.wav|va jazAy nik elAhi rA tasdiq konad
+/content/tts-engine/gdrive/My Drive/wavs/092007.wav|mA u rA dar masir AsAni qarAr midahim
+/content/tts-engine/gdrive/My Drive/wavs/092008.wav|amA kasi ke boxl varzad va az in rAh biniyAzi talabad
+/content/tts-engine/gdrive/My Drive/wavs/092009.wav|va pAdAS nik elAhi rA enkAr konad
+/content/tts-engine/gdrive/My Drive/wavs/092010.wav|bezudi u rA dar masir doSvAri qarAr midahim
+/content/tts-engine/gdrive/My Drive/wavs/092011.wav|va dar An hengAm ke dar jahanam soqut mikand amvAleS be hAl u sudi naxAhad dASt
+/content/tts-engine/gdrive/My Drive/wavs/092012.wav|be yaqin hedAyat kardan bor mAst
+/content/tts-engine/gdrive/My Drive/wavs/092013.wav|va Axarat va donyA az An mAst
+/content/tts-engine/gdrive/My Drive/wavs/092014.wav|va man SomA rA az AtaSi ke zabAne mikeSad bim midaham
+/content/tts-engine/gdrive/My Drive/wavs/092015.wav|kasi joz badbaxtarin mardom vAred An nemiSavad
+/content/tts-engine/gdrive/My Drive/wavs/092016.wav|hamAn kas ke AyAt xodA rA takzib kord va be An poSt nomud
+/content/tts-engine/gdrive/My Drive/wavs/092017.wav|va bezudi bA taqvAtarin mardom az An dur dASte miSavad
+/content/tts-engine/gdrive/My Drive/wavs/092018.wav|hamAn kas ke mAl xod rA dar rAh xodA mibaxSad tA pAk Savad
+/content/tts-engine/gdrive/My Drive/wavs/092019.wav|va hiC kas rA nazd u haq ne?mati nist tA bexAhad be in vasile u rA jozA dahad
+/content/tts-engine/gdrive/My Drive/wavs/092020.wav|balke tanahA hadafS jalab rezAy parvardegAr bozorg ust
+/content/tts-engine/gdrive/My Drive/wavs/092021.wav|va bezudi rAzi va xoSnud miSavad
+/content/tts-engine/gdrive/My Drive/wavs/093001.wav|qasam be ruz dar An hengAm ke AftAb barAyad va hame jA rA farAgirad
+/content/tts-engine/gdrive/My Drive/wavs/093002.wav|va sogand be Sab dar An hengAm ke ArAm girad
+/content/tts-engine/gdrive/My Drive/wavs/093003.wav|ke xodAvand hargez to rA vAnagozASte va mored xaSam qarAr nadAde est
+/content/tts-engine/gdrive/My Drive/wavs/093004.wav|va mosalaman
+/content/tts-engine/gdrive/My Drive/wavs/093005.wav|va bezudi parvardegArt Anqadr be to atA xAhad kord ke xoSnud Savi
+/content/tts-engine/gdrive/My Drive/wavs/093006.wav|AyA u to rA yatim nayAft va panAh dAd
+/content/tts-engine/gdrive/My Drive/wavs/093007.wav|va to rA gomSode yAft va hedAyat kord
+/content/tts-engine/gdrive/My Drive/wavs/093008.wav|va to rA faqir yAft va biniyAz nomud
+/content/tts-engine/gdrive/My Drive/wavs/093009.wav|hAl ke Cenin est yatim rA tahqir makan
+/content/tts-engine/gdrive/My Drive/wavs/093010.wav|va so?Alkonande rA az xod marAn
+/content/tts-engine/gdrive/My Drive/wavs/093011.wav|va ne?mathAye parvardegArt rA bAzgu kan
+/content/tts-engine/gdrive/My Drive/wavs/094001.wav|AyA mA sine to rA goSAde nasAxtim
+/content/tts-engine/gdrive/My Drive/wavs/094002.wav|va bAr sangin to rA az to barnadAStim
+/content/tts-engine/gdrive/My Drive/wavs/094003.wav|hamAn bAri ke saxt bor poSt to sangini mikard
+/content/tts-engine/gdrive/My Drive/wavs/094004.wav|va AvAze to rA boland sAxtim
+/content/tts-engine/gdrive/My Drive/wavs/094005.wav|be yaqin bA har saxti AsAni est
+/content/tts-engine/gdrive/My Drive/wavs/094006.wav|Ari mosalaman
+/content/tts-engine/gdrive/My Drive/wavs/094007.wav|pas hengAmi ke az kAr mohmi fAreq miSavi be mohem digari pardAz
+/content/tts-engine/gdrive/My Drive/wavs/094008.wav|va be suy parvardegArt toje kan
+/content/tts-engine/gdrive/My Drive/wavs/095001.wav|qasam be anjir va zeytun yA qasam be sarzamin SAm va beyt almoqadas
+/content/tts-engine/gdrive/My Drive/wavs/095002.wav|va sogand be tor sinin
+/content/tts-engine/gdrive/My Drive/wavs/095003.wav|va qasam be in Sahr amn make
+/content/tts-engine/gdrive/My Drive/wavs/095004.wav|ke mA ensAn rA dar behtarin surat va nezAm Afaridim
+/content/tts-engine/gdrive/My Drive/wavs/095005.wav|sepas u rA be pAyintarin marhale bAzgardAnadim
+/content/tts-engine/gdrive/My Drive/wavs/095006.wav|magar kasAni ke imAn Avarde va e?mAl sAleh anjAm dAdeand ke barAy AnhA pAdASi tamAmnaSodani est
+/content/tts-engine/gdrive/My Drive/wavs/095007.wav|pas Ce Ciz sabab miSavad ke ba?d az in hame dalAyel roSan ruz jozA rA enkAr kani
+/content/tts-engine/gdrive/My Drive/wavs/095008.wav|AyA xodAvand behtarin hokmkonandegAn nist
+/content/tts-engine/gdrive/My Drive/wavs/096001.wav|bexAn be nAm parvardegArt ke jahAn rA Afarid
+/content/tts-engine/gdrive/My Drive/wavs/096002.wav|hamAn kas ke ensAn rA az xun bastei xalq kord
+/content/tts-engine/gdrive/My Drive/wavs/096003.wav|bexAn ke parvardegArt az hame bozorgvArtar est
