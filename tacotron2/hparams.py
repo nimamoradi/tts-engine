@@ -25,9 +25,9 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=True,
-        training_files='filelists/mel_train',
-        validation_files='filelists/mel_val',
-        test_files='filelists/mel_test',
+        training_files='filelists/ljs_audio_text_train_filelist.txt',
+        validation_files='filelists/ljs_audio_text_val_filelist.txt',
+        test_files='filelists/ljs_audio_text_test_filelist.txt',
         text_cleaners=['persian_cleaners'],
 
         ################################
@@ -103,7 +103,7 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate=1e-3,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=56,
+        batch_size=40,
         # old value 52
         # 56 for 16
         # 40 for 11
