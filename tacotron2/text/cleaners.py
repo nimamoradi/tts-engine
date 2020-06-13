@@ -96,4 +96,4 @@ def persian_cleaners(text):
   text = text.replace("«"," ")
   text = text.replace("»"," ")
 
-  return text
+  return text + " ."
