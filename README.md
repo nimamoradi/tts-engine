@@ -18,6 +18,7 @@ Pytorch implementation of DeepMind's Tacotron-2 : [Natural TTS synthesis by cond
 ## Setup
 
 - Step **(0)**: Get your dataset; for persain lauguge the only open source dataset is [Mozilla common voice](https://voice.mozilla.org/en/datasets)
+note you can use our own dataset too here is [kaggle link](https://www.kaggle.com/moradi/persian-texttospeech-audio)
 
 - Step **(1)**: add your own test and train data parameters in ```filelists/```.
 because mozilla audio is more than 211 h of audio we procced only small portion of it, convert to wave and remove files more than 10 seconds in length, you can see them in [filelists](/tacotron2/filelists).
